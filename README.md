@@ -1,7 +1,9 @@
+[原地址](https://github.com/im3x/Scriptables)
+
 # 「小件件」开发框架
 
 > iOS 小组件快速开发框架 / 模板 / 小组件源码  👉 for [Scriptable](https://scriptable.app)    
-> [查看老版本（main分支）](https://github.com/im3x/Scriptables/tree/main)
+> [查看老版本（main分支）](https://github.com/wxmbaci/Scriptables/tree/main)
 
 # 介绍
 这是一个便于开发者在电脑上开发、测试、预览 iOS 小组件（Scriptable）的开发框架    
@@ -11,7 +13,7 @@
 # 开始
 **首先，我们配置电脑开发环境：**    
 1. 下载安装 VSCode 编辑器
-2. 下载本项目的`v2-dev`分支zip或代码：`git clone -b v2-dev https://github.com/im3x/Scriptables.git`    
+2. 下载本项目的`v2-dev`分支zip或代码：`git clone -b v2-dev https://github.com/wxmbaci/Scriptables.git`    
    （⚠️注意要加`-b`参数指定分支）    
 3. VSCode打开代码目录，进入终端，运行安装依赖命令：`npm install`    
 4. 安装好依赖，开启开发服务命令：`npm start`    
