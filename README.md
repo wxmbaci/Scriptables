@@ -1,4 +1,4 @@
-[原地址](https://github.com/im3x/Scriptables)
+[原地址](https://github.com/im3x/Scriptables) 原作者 im3x
 
 # 「小件件」开发框架
 
